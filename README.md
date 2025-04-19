@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mjghadge
-- 👀 I’m interested in ML, DL, NLP, OpenAI and LLM's
-- 🌱 I’m currently learning Deep Learning Human Emotions Detection and Chatbot making for Natural Language Processing
-- 🌱 I’m currently learning Docuement Grounded QA Chatbot making using llms, OpenAI and Langchain. 
-- 📫 How to reach me mjghadge9007@gmail.com
+👋 Hi, I’m @mjghadge  
+🧠 Passionate about Artificial Intelligence, Machine Learning, and Generative AI  
+🔍 Exploring LLMs (Opensource LLM's, OpenAI, Gemini, VertexAI), finetunning, RAG architectures, and multi-agent systems
+📚 Currently working on:
+    • Document-grounded QA Chatbots using LangChain, LangGraph, VertexAI, GCP and LCEL
+🤖 Building intelligent, production-ready systems that understand and process human language
+📫 Reach me at: mjghadge9007@gmail.com
 
 <!---
 mjghadge/mjghadge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
